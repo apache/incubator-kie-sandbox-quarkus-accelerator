@@ -1,3 +1,2 @@
-# kie-sandbox-quarkus-template
-KIE Sandbox Quarkus Template
-# kie-sandbox-quarkus-template
+# DO NOT USE THE `main` BRANCH TO STORE THE TEMPLATE.
+# USE THE `template` BRANCH INSTEAD.
