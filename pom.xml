@@ -19,7 +19,7 @@
     <quarkus-plugin.version>2.15.3.Final</quarkus-plugin.version>
     <kogito.bom.group-id>org.kie.kogito</kogito.bom.group-id>
     <kogito.bom.artifact-id>kogito-bom</kogito.bom.artifact-id>
-    <kogito.bom.version>1.17.0.Final</kogito.bom.version>
+    <kogito.bom.version>1.32.0.Final</kogito.bom.version>
     <surefire-plugin.version>3.0.0-M5</surefire-plugin.version>
   </properties>
   <dependencyManagement>
